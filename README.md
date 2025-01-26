@@ -18,14 +18,13 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luismonx1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1&custom_title=Luis%20Gustavo's%20GitHub%20Stats" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luismonx1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luismonx1&radius=16&theme=modern-lilac&area=true&order=5&line=00b89f&custom_title=Luis%20Gustavo's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luismonx1&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="90" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luismonx1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="90" alt="languages graph"  />
 </div>
 
 ###
