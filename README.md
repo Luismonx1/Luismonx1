@@ -1,3 +1,15 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<img align="right" height="130" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+
+###
+
+<h6 align="left">Atualmente sou estudante de Sistemas da Informação na PUC (Pontifícia Universidade Católica). Me interesso tanto por front quanto back-end e minha principal linguagem é C#.</h6>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
