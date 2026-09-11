@@ -1,63 +1,57 @@
-<br clear="both">
+<br>
 
-<h2 align="left">About Me</h2>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
-
-###
-
-<h5 align="left">Atualmente, sou estudante de Sistemas de Informação na Pontifícia Universidade Católica (PUC), onde tenho me aprofundado no universo da tecnologia e do desenvolvimento de software. Tenho grande interesse tanto em front-end quanto em back-end, buscando sempre compreender as melhores práticas e ferramentas em cada área para criar soluções completas e eficientes. Minha principal linguagem de programação é C#, que utilizo para desenvolver projetos desafiadores, mas estou sempre explorando novas tecnologias e linguagens para ampliar meus horizontes. Gosto de aprender de maneira contínua e me dedico a me manter atualizado nas tendências e inovações do setor, buscando aplicar meus conhecimentos de forma prática e criativa.</h5>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+<div align="center">
+  <img width="25%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo4ZzkwdGp5cDVhODFtYTR6bTF6ampobGhwYXlqbjI1YjhjYXF2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" alt="developer laptop" />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+<div align="center">
+  <p>
+    <br>
+    Hi there! I'm <b>Luís Gustavo</b>
+  </p>
 </div>
 
-###
+<div align="center" width="100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4200&pause=1000&color=31D4E4&center=true&vCenter=true&width=435&lines=I+am+from+Brazil;I'm+student+of+Information+Systems;Be+Welcome!" alt="Typing SVG" /></a>
+</div>
 
+<br>
+<br>
 
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-   <a href="https://www.linkedin.com/in/luisgustavocena" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-   </a>
-  <a href="https://www.instagram.com/luisgustavocena/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,postgres,py,html,css" />
   </a>
+</p>
+
+<br>
+<br>
+
+<details align="center">
+  <summary>
+    <samp>
+      <b>More Info</b>
+    </samp>
+  </summary>
+
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](luisgustavomoura45@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luisgustavocena/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luisgustavocena/)
+
 </div>
-
-###
-
+</details>
